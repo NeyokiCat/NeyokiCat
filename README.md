@@ -1,7 +1,13 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeyokiCat&layout=compact" />
 <a href="#">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=NeyokiCat&count_private=true&show_icons=true" />
 </a>
+
+**Things About Me**
+
+- Python，Java, HTML+css+javascript
+- E-mail: neyoki@proton.me / neyoki0the0cat@foxmail.com
+- About me: Student developer💻, free to contact🤙, furry 🐾
+- Languages: English, 中文
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NeyokiCat/NeyokiCat/output/github-contribution-grid-snake-dark.svg">
@@ -17,4 +23,4 @@
 ![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
 ![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
 
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeyokiCat&layout=compact" />
