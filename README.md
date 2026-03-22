@@ -3,8 +3,8 @@
 </a>
 
 **Things About Me**
-- Currently a student of the Ohio State University (2028)
-- Python，Java, HTML+css+javascript
+- Currently a student of the Ohio State University (2027)
+- C, Python，Java, HTML+css+javascript
 - E-mail: neyoki@proton.me / neyoki0the0cat@foxmail.com
 - About me: Student developer💻, free to contact🤙
 - Languages: English, 中文
